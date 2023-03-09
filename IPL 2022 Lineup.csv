@@ -1,0 +1,239 @@
+Team,"Player
+Ratings",Level,Region,Category,Arm,Batting_Pos,Bowling_Style,"Matches
+ Played",Runs,Wickets,Strike Rate,Players,Price(RS),Age,Birth_Date,Country
+CSK,10,Capped,Domestic,All_Rounder,Left,Tailender,Spinner,200,2386,127,151,Ravindra Jadeja,150.00M,35,1988-04-27,India
+CSK,10,Capped,Domestic,Bowler,Right,Tailender,Seamer,63,79,59,140,Deepak Chahar,140.00M,27,1996-04-12,India
+CSK,10,Capped,Domestic,Wicket_Keeper,Right,Middle,Can't Bowl,220,4746,0,135,MS Dhoni,120.00M,43,1980-07-07,India
+CSK,10,Capped,Overseas,All_Rounder,Left,Middle,Spinner,34,666,16,150,Moeen Ali,80.00M,35,1988-12-25,England
+CSK,10,Capped,Domestic,Wicket_Keeper,Right,Opener,Can't Bowl,175,3916,0,130,Ambati Raydu,67.50M,38,1986-01-23,India
+CSK,10,Capped,Domestic,Batter,Right,Opener,Can't Bowl,22,839,0,170,Ruturaj Gaikwad,60.00M,25,1998-04-06,India
+CSK,10,Capped,Overseas,All_Rounder,Right,Tailender,Seamer,151,1537,167,174,Dwayne Bravo,44.00M,40,1983-10-23,West Indies
+CSK,9,Capped,Domestic,All_Rounder,Left,Middle,Seamer,24,400,11,140,Shivam Dube,40.00M,30,1993-06-28,India
+CSK,8.5,Capped,Overseas,Bowler,Right,Tailender,Seamer,75,358,80,132,Chris Jordan,36.00M,36,1987-09-23,England
+CSK,9.5,Capped,Domestic,Wicket_Keeper,Right,Middle,Can't Bowl,193,4722,0,130,Robin Uthappa,20.00M,37,1986-08-05,India
+CSK,8.5,Capped,Overseas,All_Rounder,Left,Tailender,Spinner,62,358,66,130,Mitchell Santner,19.00M,33,1990-12-20,New Zealand
+CSK,9,Capped,Overseas,Bowler,Right,Tailender,Seamer,31,22,32,100,Adam Milne,19.00M,29,1994-03-18,New Zealand
+CSK,8.5,Uncapped,Domestic,Bowler,Right,Tailender,Spinner,0,0,0,100,Rajvardhan Hangargekar,15.00M,22,2001-09-16,India
+CSK,7,Uncapped,Domestic,Bowler,Right,Tailender,Seamer,0,0,0,100,Prashant Solanki,12.00M,21,2002-04-04,India
+CSK,8,Capped,Overseas,Wicket_Keeper,Left,Middle,Can't Bowl,20,600,0,140,Devon Conway,10.00M,34,1990-01-26,New Zealand
+CSK,8,Uncapped,Overseas,Bowler,Left,Tailender,Seamer,15,18,14,150,Maheesh Theekshana,7.00M,37,1986-06-15,Sri Lanka
+CSK,8,Capped,Overseas,All_Rounder,Left,Middle,Seamer,22,170,23,161,Dwaine Pretorius,5.00M,32,1992-01-08,South Africa
+CSK,7,Uncapped,Domestic,Batter,Right,Tailender,Can't Bowl,22,498,0,141,C Hari Nishaanth,2.00M,25,1998-12-01,India
+CSK,7,Uncapped,Domestic,Wicket_Keeper,Right,Middle,Can't Bowl,24,1916,0,140,N Jagdeesan,2.00M,22,2001-08-07,India
+CSK,7,Uncapped,Domestic,Bowler,Right,Tailender,Spinner,3,0,4,100,KM Asif,2.00M,26,1998-02-04,India
+CSK,7,Uncapped,Domestic,Bowler,Right,Tailender,Seamer,5,21,3,132,Tushar Deshpande,2.00M,24,1999-09-20,India
+CSK,7,Uncapped,Domestic,Bowler,Right,Tailender,Spinner,0,0,0,100,Simarjeet Singh,2.00M,26,1997-12-20,India
+CSK,7,Uncapped,Domestic,Batter,Right,Middle,Can't Bowl,0,0,0,100,Subhranshu Senapati,2.00M,21,2002-05-01,India
+CSK,7,Uncapped,Domestic,Bowler,Right,Tailender,Seamer,0,0,0,100,Mukesh Choudhary,2.00M,25,1999-03-04,India
+CSK,7,Uncapped,Domestic,All_Rounder,Right,Tailender,Seamer,0,0,0,100,K.Bhagath Varma,2.00M,22,2001-08-19,India
+DC,10,Capped,Domestic,Batter,Left,Middle,Can't Bowl,84,2498,0,147,Rishabh Pant,160.00M,28,1996-01-27,India
+DC,10,Capped,Domestic,All_Rounder,Right,Tailender,Seamer,61,50,67,130,Shardul Thakur,107.50M,32,1991-09-02,India
+DC,9.5,Capped,Domestic,Bowler,Left,Tailender,Seamer,109,953,95,134,Axar Patel,90.00M,30,1993-06-20,India
+DC,9.5,Capped,Domestic,Batter,Right,Opener,Can't Bowl,58,1307,0,145,Prithvi Shaw,75.00M,25,1999-02-10,India
+DC,10,Capped,Overseas,Bowler,Right,Tailender,Seamer,24,7,34,119,A Nortje,65.00M,31,1992-11-14,South Africa
+DC,10,Capped,Overseas,All_Rounder,Right,Middle,Seamer,36,845,20,133,Mitchel Marsh,65.00M,30,1993-06-28,Australia
+DC,10,Capped,Overseas,Batter,Left,Opener,Can't Bowl,150,5450,0,141,David Warner,62.50M,36,1988-02-10,Australia
+DC,8.5,Capped,Domestic,Bowler,Left,Tailender,Seamer,24,15,32,102,Syed Khaleel Ahmed,52.50M,34,1990-02-03,India
+DC,9,Capped,Domestic,Bowler,Left,Tailender,Seamer,14,24,14,105,Chetan Sakariya,42.00M,22,2001-06-11,India
+DC,10,Capped,Overseas,Batter,Right,Middle,Seamer,39,619,4,138,Rovman Powell,28.00M,30,1993-11-14,West Indies
+DC,8.5,Capped,Overseas,Bowler,Left,Tailender,Seamer,70,50,61,100,Mustafizur Rehman,20.00M,33,1990-09-18,Bangladesh
+DC,9,Capped,Domestic,Bowler,Left,Tailender,Spinner,45,20,41,117,Kuldeep Yadav,20.00M,29,1994-09-22,India
+DC,8.5,Uncapped,Domestic,Wicket_Keeper,Left,Middle,Can't Bowl,8,191,0,129,KS Bharat,20.00M,30,1993-05-16,India
+DC,8.5,Uncapped,Domestic,All_Rounder,Right,Tailender,Seamer,11,22,5,100,Kamlesh Nagarkoti,11.00M,24,1999-10-11,India
+DC,8.5,Uncapped,Domestic,Batter,Right,Tailender,Can't Bowl,105,1674,0,136,Mandeep Singh,11.00M,29,1994-09-10,India
+DC,8.5,Uncapped,Domestic,All_Rounder,Right,Tailender,Spinner,7,68,4,120,Lalit Yadav,6.50M,25,1998-04-14,India
+DC,8.5,Capped,Overseas,Bowler,Right,Tailender,Spinner,23,14,36,100,Lungisani Ngidi,5.00M,34,1989-06-18,South Africa
+DC,9,Uncapped,Domestic,All_Rounder,Right,Middle,Spinner,0,0,0,120,Yash Dhull,5.00M,29,1994-12-01,India
+DC,8,Capped,Overseas,Wicket_Keeper,Right,Middle,Can't Bowl,40,753,0,129,Tim Seifert,5.00M,28,1995-12-16,New Zealand
+DC,7,Uncapped,Domestic,All_Rounder,Right,Tailender,Spinner,3,9,0,110,Pravin Dubey,5.00M,24,1999-04-11,India
+DC,7,Uncapped,Domestic,Batter,Right,Middle,Can't Bowl,0,0,0,100,Ashwin Hebbar,2.00M,40,1984-02-03,India
+DC,8,Uncapped,Domestic,Batter,Right,Middle,Can't Bowl,40,441,0,146,Sarfaraz Khan,2.00M,28,1995-08-16,India
+DC,7,Uncapped,Domestic,Bowler,Right,Tailender,Spinner,0,0,0,100,Vicky Ostwal,2.00M,30,1993-07-07,India
+DC,7,Uncapped,Domestic,All_Rounder,Right,Tailender,Seamer,2,25,0,100,Ripal Patel,2.00M,27,1997-01-22,India
+GT,9,Capped,Domestic,All_Rounder,Right,Middle,Seamer,92,1476,42,160,Hardik Pandya,150.00M,28,1995-09-20,India
+GT,10,Capped,Overseas,All_Rounder,Right,Tailender,Spinner,69,222,93,137,Rashid Khan,150.00M,30,1993-12-04,Afghanistan
+GT,9.5,Capped,Overseas,Bowler,Right,Tailender,Seamer,22,100,25,151,Lokie Ferguson,100.00M,33,1991-01-01,New Zealand
+GT,10,Capped,Domestic,All_Rounder,Left,Middle,Spinner,48,521,32,140,Rahul Tewatia,90.00M,35,1988-11-04,India
+GT,10,Capped,Domestic,Wicket_Keeper,Right,Opener,Can't Bowl,56,1420,0,123,S Gill,80.00M,24,1999-07-22,India
+GT,9..5,Capped,Domestic,Bowler,Right,Tailender,Seamer,77,20,79,144,Md Shami,62.50M,32,1992-01-18,India
+GT,7,Uncapped,Domestic,Bowler,Right,Tailender,Seamer,0,0,0,100,Yash Dayal,32.00M,23,2000-07-04,India
+GT,9,Capped,Overseas,Batter,Left,Middle,Can't Bowl,90,2000,0,145,David Millar,30.00M,38,1986-01-31,Australia
+GT,7,Uncapped,Domestic,Bowler,Left,Tailender,Seamer,25,367,7,143,R. Sai Kishore,30.00M,24,1999-08-18,India
+GT,7,Uncapped,Domestic,Batter,Right,Middle,Can't Bowl,0,0,0,100,Abhinav Sadarangani,26.00M,27,1996-09-16,India
+GT,8.5,Capped,Overseas,Wicket_Keeper,Left,Middle,Can't Bowl,66,790,0,154,Mathew Wade,24.00M,33,1991-02-17,Australia
+GT,9,Capped,Overseas,Bowler,Right,Tailender,Seamer,3,10,6,133,Alzarri Joseph,24.00M,27,1996-04-26,West Indies
+GT,9,Capped,Overseas,Batter,Right,Opener,Can't Bowl,58,1569,0,143,Jason Roy,20.00M,28,1995-09-13,England
+GT,8,Capped,Domestic,Wicket_Keeper,Right,Opener,Can't Bowl,133,2110,0,128,Wriddhiman Saha,19.00M,36,1988-02-09,India
+GT,8.5,Capped,Domestic,All_Rounder,Right,Tailender,Spinner,19,50,8,105,Jayant Yadav,17.00M,38,1985-11-02,India
+GT,8.5,Capped,Domestic,All_Rounder,Right,Middle,Seamer,47,982,12,126,Vijay Shankar,14.00M,32,1991-06-15,India
+GT,8,Capped,Overseas,All_Rounder,Left,Middle,Seamer,5,20,3,124,Dominic Drakes,11.00M,25,1999-01-22,West Indies
+GT,7,Uncapped,Domestic,All_Rounder,Right,Tailender,Spinner,41,571,6,133,Gurkeerat Singh,5.00M,26,1997-10-20,India
+GT,7,Capped,Domestic,Bowler,Right,Tailender,Seamer,50,30,42,121,Varun Aaron,5.00M,33,1990-04-03,India
+GT,7,Uncapped,Domestic,Bowler,Left,Tailender,Spinner,0,0,0,100,Noor Ahmed,3.00M,33,1990-11-19,India
+GT,7,Uncapped,Domestic,All_Rounder,Right,Tailender,Spinner,0,0,0,100,Darshan Nalkande,2.00M,29,1994-09-14,India
+GT,7,Uncapped,Domestic,All_Rounder,Right,Tailender,Seamer,39,50,35,100,Pradeep Sangwan,2.00M,28,1995-07-22,India
+KKR,10,Capped,Domestic,Batter,Right,Middle,Can't Bowl,188,3061,0,160,Shreyas Iyer,122.50M,34,1989-11-17,India
+KKR,10,Capped,Overseas,All_Rounder,Right,Middle,Seamer,84,1810,97,178,Andre Russell,120.00M,37,1986-07-23,West Indies
+KKR,9.5,Capped,Domestic,Bowler,Right,Tailender,Spinner,196,3887,95,120,V Chakravarthy,80.00M,30,1993-06-28,India
+KKR,10,Capped,Domestic,All_Rounder,Right,Opener,Seamer,16,370,3,138,Venkatesh Iyer,80.00M,27,1996-07-22,India
+KKR,9.5,Capped,Domestic,All_Rounder,Right,Middle,Spinner,77,1822,8,132,Nitish Rana,80.00M,32,1991-12-09,India
+KKR,10,Capped,Overseas,Bowler,Right,Tailender,Seamer,37,344,44,142,Patt Cumins,72.50M,34,1989-05-24,Australia
+KKR,8,Uncapped,Domestic,All_Rounder,Right,Tailender,Seamer,26,50,25,101,Shivam Mavi,72.50M,24,1999-03-27,India
+KKR,10,Capped,Overseas,Batter,Left,Middle,Spinner,134,1080,143,161,Sunil Narine,60.00M,35,1989-02-02,West Indies
+KKR,8,Capped,Overseas,Wicket_Keeper,Left,Middle,Can't Bowl,20,334,0,133,Sam Billings,20.00M,25,1998-07-10,India
+KKR,8.5,Capped,Domestic,Bowler,Right,Tailender,Seamer,121,122,119,123,Umesh Yadav,20.00M,34,1989-09-18,India
+KKR,9,Capped,Overseas,Wicket_Keeper,Right,Opener,Can't Bowl,60,1645,0,132,Alex Hales,15.00M,31,1993-01-28,England
+KKR,8.5,Capped,Overseas,Bowler,Right,Tailender,Seamer,43,150,31,124,Tim Southee,15.00M,36,1987-11-21,New Zealand
+KKR,9,Capped,Overseas,All_Rounder,Right,Middle,Spinner,85,1500,73,146,Md Nabi,10.00M,40,1983-03-25,Afghanistan
+KKR,8.5,Capped,Domestic,Batter,Right,Middle,Can't Bowl,151,3941,0,125,Ajinkya Rahane,10.00M,39,1984-07-21,India
+KKR,7,Uncapped,Domestic,Wicket_Keeper,Right,Middle,Can't Bowl,4,38,0,122,Sheldon Jackson,6.00M,26,1997-07-17,India
+KKR,7.5,Uncapped,Domestic,Batter,Right,Tailender,Can't Bowl,10,80,0,110,Rinku Singh,5.50M,29,1994-03-30,India
+KKR,7,Uncapped,Domestic,Bowler,Right,Tailender,Seamer,0,0,0,100,Ashok Sharma,5.50M,28,1995-11-17,India
+KKR,9,Capped,Overseas,All_Rounder,Right,Tailender,Seamer,19,111,10,100,Chamika Karunaratne,5.00M,34,1989-05-12,Sri Lanka
+KKR,7,Uncapped,Domestic,Batter,Right,Middle,Can't Bowl,0,0,0,100,Abhijeet Tomar,4.00M,31,1992-07-07,India
+KKR,7,Uncapped,Domestic,All_Rounder,Right,Tailender,Seamer,1,1,1,100,Anukul Roy,2.00M,25,1998-11-07,India
+KKR,7,Uncapped,Domestic,Bowler,Right,Tailender,Seamer,0,0,0,100,Rasikh Dar,2.00M,25,1998-04-19,India
+KKR,7,Uncapped,Domestic,Wicket_Keeper,Right,Middle,Can't Bowl,0,0,0,100,Baba Indrajith,2.00M,22,2001-09-16,India
+KKR,7,Uncapped,Domestic,All_Rounder,Right,Tailender,Spinner,0,0,0,100,Aman Khan,2.00M,21,2002-11-25,India
+KKR,7,Uncapped,Domestic,Batter,Right,Middle,Can't Bowl,0,0,0,100,Ramesh Kumar,2.00M,23,2001-02-04,India
+KKR,7,Uncapped,Domestic,Batter,Right,Middle,Can't Bowl,0,0,0,100,Pratham Singh,2.00M,24,1999-05-05,India
+LSG,10,Capped,Domestic,Wicket_Keeper,Right,Opener,Can't Bowl,92,3230,0,142,KL Rahul,170.00M,31,1992-07-22,India
+LSG,10,Capped,Domestic,Bowler,Right,Tailender,Seamer,25,10,30,153,Avesh Khan,100.00M,26,1998-01-17,India
+LSG,10,Capped,Overseas,All_Rounder,Right,Middle,Seamer,56,914,30,135,Marcus Stoinus,92.00M,34,1989-07-07,Australia
+LSG,10,Capped,Overseas,All_Rounder,Right,Middle,Seamer,37,264,39,136,Jason Holder,87.50M,38,1985-05-07,West Indies
+LSG,10,Capped,Domestic,All_Rounder,Left,Middle,Spinner,84,1153,51,152,Krunal Pandya,82.50M,37,1986-07-22,India
+LSG,10,Capped,Overseas,Bowler,Right,Tailender,Seamer,19,12,26,100,Mark Wood,75.00M,34,1989-04-17,England
+LSG,10,Capped,Overseas,Wicket_Keeper,Left,Opener,Can't Bowl,77,2404,0,164,Quinton De kok,67.50M,34,1990-02-17,South Africa
+LSG,10,Capped,Domestic,All_Rounder,Right,Middle,Spinner,97,1000,61,121,Deepak Hooda,57.50M,29,1994-10-20,India
+LSG,10,Capped,Domestic,Batter,Right,Middle,Can't Bowl,154,3520,0,146,Manish Pandey,46.00M,35,1988-04-12,India
+LSG,10,Capped,Domestic,Bowler,Right,Tailender,Spinner,23,40,24,128,Ravi Bishnoi,40.00M,23,2000-06-29,India
+LSG,10,Capped,Overseas,Bowler,Right,Tailender,Seamer,44,64,45,100,Dushmanta Chameera,20.00M,33,1990-06-25,Sri Lanka
+LSG,10,Capped,Overseas,Batter,Left,Middle,Can't Bowl,50,1476,0,161,Evin Lewis,20.00M,32,1992-01-23,West Indies
+LSG,8,Capped,Domestic,All_Rounder,Left,Tailender,Spinner,24,560,15,163,K. Gowtham,9.00M,31,1992-09-19,India
+LSG,8.5,Uncapped,Domestic,Bowler,Right,Tailender,Seamer,29,26,24,100,Ankit S Rajput,5.00M,33,1990-10-06,India
+LSG,8,Capped,Domestic,Bowler,Right,Tailender,Spinner,72,100,48,105,Shahbaz Nadeem,5.00M,26,1997-11-25,India
+LSG,10,Capped,Overseas,All_Rounder,Left,Opener,Seamer,7,140,0,143,Kyle Mayers,5.00M,30,1993-07-10,West Indies
+LSG,8,Uncapped,Domestic,Batter,Right,Middle,Can't Bowl,53,1015,0,140,Manan Vohra,2.00M,35,1988-04-11,India
+LSG,8,Uncapped,Domestic,All_Rounder,Right,Tailender,Spinner,0,0,0,100,B. Sai Sudharsan,2.00M,22,2001-08-21,India
+LSG,8,Uncapped,Domestic,Bowler,Left,Tailender,Seamer,0,0,0,100,Mohsin Khan,2.00M,26,1998-03-04,India
+LSG,8,Uncapped,Domestic,Bowler,Right,Tailender,Seamer,0,0,0,100,Mayank Yadav,2.00M,22,2001-09-12,India
+LSG,8,Uncapped,Domestic,All_Rounder,Right,Tailender,Seamer,0,0,0,100,Ayush Badoni,2.00M,22,2001-08-26,India
+LSG,8,Uncapped,Domestic,All_Rounder,Right,Tailender,Spinner,0,0,0,100,Karan Sharma,2.00M,24,1999-07-16,India
+MI,10,Capped,Domestic,Batter,Right,Opener,Can't Bowl,216,5611,15,139,Rohit Sharma,160.00M,37,1987-02-11,India
+MI,10,Capped,Domestic,Wicket_Keeper,Left,Opener,Can't Bowl,61,1452,0,133,Ishan Kishan,152.50M,26,1997-07-16,India
+MI,10,Uncapped,Domestic,Bowler,Right,Tailender,Seamer,106,56,130,100,Jasprit Bumrah,120.00M,30,1993-08-11,India
+MI,9,Capped,Overseas,Bowler,Left,Middle,Spinner,215,140,106,110,Tim David,82.50M,26,1998-02-05,Singapore
+MI,10,Capped,Domestic,Batter,Right,Middle,Can't Bowl,115,2341,0,143,Surya K Yadav,80.00M,34,1989-12-15,India
+MI,8.5,Capped,Overseas,Bowler,Right,Tailender,Seamer,35,200,46,157,Jofra Archer,80.00M,32,1991-08-29,England
+MI,10,Capped,Overseas,All_Rounder,Right,Middle,Spinner,178,3268,65,161.5,K Pollard,60.00M,41,1982-11-16,West Indies
+MI,9,Uncapped,Overseas,Batter,Right,Middle,Can't Bowl,0,0,0,100,Dewald Brevis,30.00M,26,1997-04-20,South Africa
+MI,8,Capped,Overseas,All_Rounder,Right,Tailender,Seamer,7,72,7,112,Daniel Sams,26.00M,29,1994-03-27,Australia
+MI,7,Uncapped,Domestic,All_Rounder,Right,Tailender,Spinner,0,0,0,100,N. Tilak Varma,17.00M,32,1991-12-31,India
+MI,8,Uncapped,Domestic,Bowler,Right,Tailender,Spinner,34,50,26,100,Murugan Ashwin,16.00M,35,1989-02-18,India
+MI,8,Capped,Overseas,Bowler,Right,Tailender,Seamer,17,50,16,100,Tymal Mills,15.00M,34,1990-01-15,England
+MI,10,Capped,Domestic,Bowler,Right,Tailender,Seamer,86,150,85,108,Jaydev Unadkat,13.00M,34,1990-03-04,India
+MI,8,Capped,Overseas,Bowler,Right,Tailender,Seamer,10,8,12,100,Riley Meredith,10.00M,28,1995-03-14,Australia
+MI,9,Capped,Overseas,All_Rounder,Right,Middle,Spinner,34,280,25,136,Fabian Allen,7.50M,32,1991-07-04,West Indies
+MI,8.5,Uncapped,Domestic,Bowler,Right,Tailender,Spinner,18,25,16,116,Mayank Markande,6.50M,30,1993-05-09,India
+MI,8,Uncapped,Domestic,All_Rounder,Right,Middle,Spinner,0,0,0,100,Sanjay Yadav,5.00M,38,1986-03-08,India
+MI,8,Uncapped,Domestic,Bowler,Right,Tailender,Seamer,20,50,17,100,B Thampi,3.00M,34,1990-01-30,India
+MI,7,Uncapped,Domestic,All_Rounder,Right,Tailender,Seamer,0,0,0,100,Arjun Tendulkar,3.00M,22,2001-06-09,India
+MI,7,Uncapped,Domestic,All_Rounder,Right,Tailender,Spinner,0,0,0,100,Ramandeep Singh,2.00M,26,1997-11-06,India
+MI,7,Uncapped,Domestic,Wicket_Keeper,Right,Middle,Can't Bowl,0,0,0,100,Aryan Juyal,2.00M,28,1996-02-20,India
+MI,7,Uncapped,Domestic,Bowler,Right,Tailender,Seamer,0,0,0,100,Rahul Buddhi,2.00M,25,1998-10-03,India
+MI,7,Uncapped,Domestic,Bowler,Right,Tailender,Seamer,0,0,0,100,Hrithik Shokeen,2.00M,24,1999-05-12,India
+MI,17,Uncapped,Domestic,Bowler,Right,Tailender,Seamer,0,0,0,100,Mohd. Ashrad Khan,2.00M,23,2000-05-02,India
+PBK,10,Capped,Domestic,Batter,Right,Opener,Can't Bowl,100,2135,0,136,Mayank Agrwal,120.00M,33,1990-04-09,India
+PBK,9.5,Capped,Overseas,All_Rounder,Right,Middle,Spinner,28,397,12,150,Liam Livingstone,115.00M,30,1993-03-26,England
+PBK,10,Capped,Overseas,Bowler,Right,Tailender,Seamer,50,138,76,102,K Rabada,92.50M,24,1999-10-21,South Africa
+PBK,9,Uncapped,Domestic,All_Rounder,Right,Middle,Spinner,11,153,0,134,Shahrukh Khan,90.00M,26,1997-12-10,India
+PBK,10,Capped,Domestic,Batter,Left,Opener,Can't Bowl,192,5783,0,130,Shikhar Dhawan,82.50M,37,1986-12-10,India
+PBK,10,Capped,Overseas,Wicket_Keeper,Right,Opener,Can't Bowl,28,1033,0,142,Jonny Bairstow,67.50M,34,1989-10-22,England
+PBK,10,Capped,Overseas,All_Rounder,Right,Middle,Spinner,10,53,7,157,Odean Smith,60.00M,28,1996-02-04,West Indies
+PBK,9,Capped,Domestic,Bowler,Left,Tailender,Spinner,42,31,43,109,Rahul Chahar,52.50M,30,1993-09-14,India
+PBK,9.5,Uncapped,Domestic,Bowler,Right,Tailender,Seamer,23,2,30,121,Arshdeep Singh,40.00M,27,1997-01-26,India
+PBK,8,Uncapped,Domestic,All_Rounder,Right,Tailender,Spinner,10,84,5,120,Harpreet Brar,38.00M,31,1992-05-09,India
+PBK,8,Uncapped,Domestic,All_Rounder,Right,Middle,Spinner,0,0,0,100,Raj Angad Bawa,20.00M,20,2003-09-22,India
+PBK,8,Uncapped,Domestic,Bowler,Right,Tailender,Seamer,0,0,0,100,Vaibhav Arora,20.00M,21,2002-11-14,India
+PBK,7,Capped,Overseas,Bowler,Left,Tailender,Seamer,6,20,6,102,Nathan Ellis,7.50M,29,1994-11-25,Australia
+PBK,8,Uncapped,Domestic,Wicket_Keeper,Right,Middle,Can't Bowl,5,50,0,100,Prabhsimaran Singh,6.00M,28,1995-04-27,India
+PBK,7,Capped,Domestic,All_Rounder,Right,Tailender,Spinner,26,153,20,113,Rishi Dhawan,5.50M,26,1997-12-25,India
+PBK,8.5,Capped,Domestic,Bowler,Right,Tailender,Seamer,99,50,112,132,Sandeep Sharma,5.00M,33,1990-04-29,India
+PBK,8,Uncapped,Domestic,Batter,Left,Tailender,Can't Bowl,18,320,0,136,Bhanuka Rajapaksa,5.00M,33,1990-07-02,Sri Lanka
+PBK,8,Uncapped,Overseas,All_Rounder,Right,Middle,Seamer,20,400,10,137,Benny Howell,4.00M,31,1992-12-16,England
+PBK,7.5,Uncapped,Domestic,Bowler,Left,Tailender,Seamer,1,5,1,117,Ishan Poral,2.50M,28,1995-10-07,India
+PBK,7,Uncapped,Domestic,Wicket_Keeper,Right,Tailender,Can't Bowl,0,0,0,100,Jitesh Sharma,2.00M,30,1993-04-04,India
+PBK,7,Uncapped,Domestic,All_Rounder,Right,Middle,Spinner,0,0,0,100,Prerak Mankad,2.00M,29,1994-11-12,India
+PBK,7,Uncapped,Domestic,All_Rounder,Right,Middle,Seamer,0,0,0,100,Atharva Taide,2.00M,24,1999-06-06,India
+PBK,7,Uncapped,Domestic,All_Rounder,Right,Middle,Spinner,0,0,0,100,Writtick Chatterjee,2.00M,25,1998-11-27,India
+PBK,7,Uncapped,Domestic,Bowler,Right,Tailender,Seamer,0,0,0,100,Baltej Dhanda,2.00M,28,1995-05-21,India
+PBK,7,Uncapped,Domestic,Bowler,Right,Tailender,Seamer,0,0,0,100,Ansh Patel,2.00M,31,1993-01-06,India
+RCB,10,Capped,Domestic,Batter,Right,Opener,Can't Bowl,207,6283,4,130,Virat Kohli,150.00M,36,1987-08-29,India
+RCB,10,Capped,Overseas,All_Rounder,Right,Middle,Spinner,97,2018,34,164.2,Glenn Maxwell,110.00M,34,1989-08-25,Australia
+RCB,10,Capped,Domestic,All_Rounder,Right,Tailender,Seamer,63,201,78,158,Harshal Patel,107.50M,32,1992-01-21,India
+RCB,10,Capped,Overseas,All_Rounder,Left,Middle,Spinner,35,345,57,120,Wanindu Hasranga,107.50M,29,1994-08-04,Sri Lanka
+RCB,8.5,Capped,Overseas,Bowler,Right,Tailender,Seamer,27,50,40,161,Josh Hazzelwood,77.50M,32,1991-04-24,Australia
+RCB,8.5,Capped,Domestic,Bowler,Right,Tailender,Seamer,50,60,50,112,Md Siraj,70.00M,31,1993-02-24,India
+RCB,10,Capped,Overseas,Batter,Right,Opener,Can't Bowl,100,2935,0,131,Faf Duplesis,70.00M,38,1986-01-31,South Africa
+RCB,9,Capped,Domestic,Wicket_Keeper,Right,Middle,Can't Bowl,213,4026,0,129,Dinesh Kartik,55.00M,39,1984-12-01,India
+RCB,7,Uncapped,Domestic,Wicket_Keeper,Right,Middle,Can't Bowl,2,1,0,103,Anuj Rawat,34.00M,22,2001-03-19,India
+RCB,7,Uncapped,Domestic,All_Rounder,Left,Tailender,Spinner,13,10,9,102,Shahbaz Ahmed,24.00M,28,1995-08-02,India
+RCB,7,Capped,Overseas,All_Rounder,Right,Middle,Seamer,35,182,40,132,David Willey,20.00M,33,1991-01-05,England
+RCB,8.5,Capped,Overseas,All_Rounder,Right,Tailender,Seamer,13,120,5,135,Sherfane Rutherford,10.00M,25,1998-09-17,West Indies
+RCB,7,Uncapped,Domestic,All_Rounder,Right,Middle,Spinner,11,181,2,119,Mahipal Lomror,9.50M,34,1989-10-04,India
+RCB,8,Capped,Overseas,Batter,Right,Middle,Can't Bowl,6,156,0,158,Finn Allen,8.00M,34,1989-07-21,West Indies
+RCB,8.5,Capped,Overseas,Bowler,Left,Tailender,Seamer,14,5,12,100,Jason Behrendorff,7.50M,35,1988-12-11,Australia
+RCB,8,Capped,Domestic,Bowler,Right,Tailender,Seamer,57,50,62,100,Siddharth Kaul,7.50M,35,1988-05-21,India
+RCB,8,Capped,Domestic,Bowler,Right,Tailender,Spinner,68,317,59,121,Karn Sharma,5.00M,39,1984-11-27,India
+RCB,7,Uncapped,Domestic,All_Rounder,Right,Middle,Spinner,0,0,0,100,Suyash Prabhudessai,3.00M,31,1992-10-30,India
+RCB,7,Uncapped,Domestic,Bowler,Left,Tailender,Seamer,0,0,0,100,Chama Milind,2.50M,32,1991-06-28,India
+RCB,7,Uncapped,Domestic,Bowler,Right,Tailender,Spinner,0,0,0,100,Akashdeep,2.00M,24,2000-03-06,India
+RCB,8,Uncapped,Domestic,Wicket_Keeper,Left,Middle,Can't Bowl,0,0,0,100,Luvnith Sisodia,2.00M,22,2001-07-19,India
+RCB,7,Uncapped,Domestic,Bowler,Right,Tailender,Seamer,0,0,0,100,Aneeshwar Gautam,2.00M,21,2002-09-10,India
+RR,9,Capped,Domestic,Wicket_Keeper,Right,Middle,Can't Bowl,121,3068,0,134,Sanju Samson,140.00M,32,1991-08-29,India
+RR,9.5,Capped,Overseas,Wicket_Keeper,Right,Middle,Can't Bowl,65,1968,0,163,Jos Buttler,100.00M,33,1990-12-23,England
+RR,9,Capped,Domestic,Bowler,Right,Tailender,Seamer,34,50,30,100,Prasidh Krishna,100.00M,26,1998-01-23,India
+RR,8,Capped,Overseas,Batter,Left,Middle,Can't Bowl,31,517,0,152,S Hetmyer,85.00M,26,1997-09-17,West Indies
+RR,10,Capped,Overseas,Bowler,Right,Tailender,Seamer,64,100,76,103,Trent Bolt,80.00M,31,1992-10-07,New Zealand
+RR,10,Uncapped,Domestic,Batter,Left,Opener,Can't Bowl,29,884,0,125,Devdutt Padikal,77.50M,23,2000-06-06,India
+RR,10,Capped,Domestic,Bowler,Right,Tailender,Spinner,114,38,139,108,Y Chahal,65.00M,31,1992-11-25,India
+RR,10,Capped,Domestic,All_Rounder,Right,Tailender,Spinner,167,1000,145,110,R Ashwin,50.00M,37,1987-01-18,India
+RR,9,Capped,Domestic,Batter,Left,Opener,Can't Bowl,13,289,0,152,Yashasvi Jaiswal,40.00M,23,2000-04-07,India
+RR,8.5,Uncapped,Domestic,All_Rounder,Right,Middle,Spinner,30,339,3,131,Riyan Parag,38.00M,25,1998-09-01,India
+RR,8,Capped,Domestic,Bowler,Right,Tailender,Seamer,28,20,13,111,Navdeep Saini,26.00M,29,1994-09-23,India
+RR,9,Capped,Overseas,All_Rounder,Right,Tailender,Seamer,38,84,48,125,Nathan Coulter-Nile,20.00M,33,1990-12-08,Australia
+RR,8.5,Capped,Overseas,All_Rounder,Left,Middle,Seamer,38,417,21,151,James Neesham,15.00M,33,1990-08-01,New Zealand
+RR,8,Capped,Domestic,Batter,Right,Middle,Can't Bowl,73,1408,0,127,Karun Nair,14.00M,34,1989-09-25,India
+RR,8.5,Capped,Overseas,All_Rounder,Right,Middle,Spinner,34,933,0,131,Rassie Van Der Dussen,10.00M,26,1997-06-02,South Africa
+RR,8.5,Capped,Overseas,All_Rounder,Right,Tailender,Seamer,25,392,6,134,Daryl Mitchell,7.50M,32,1991-05-28,New Zealand
+RR,8,Capped,Overseas,Bowler,Left,Tailender,Seamer,13,26,19,138,Obed Mccoy,7.50M,26,1997-12-25,West Indies
+RR,7.5,Uncapped,Domestic,Bowler,Right,Tailender,Spinner,11,20,8,114,K.C Cariappa,3.00M,23,2000-04-01,India
+RR,6,Uncapped,Domestic,Bowler,Right,Tailender,Seamer,0,0,0,100,Kuldeep Sen,2.00M,22,2001-10-13,India
+RR,7,Uncapped,Domestic,Wicket_Keeper,Right,Middle,Can't Bowl,0,0,0,100,Dhruv Jurel,2.00M,25,1999-03-04,India
+RR,6,Uncapped,Domestic,Bowler,Right,Tailender,Spinner,1,0,0,100,Tejas Baroka,2.00M,23,2001-02-01,India
+RR,7,Uncapped,Domestic,Bowler,Right,Tailender,Seamer,1,1,0,100,Kuldip Yadav,2.00M,22,2001-07-26,India
+RR,7,Uncapped,Domestic,All_Rounder,Right,Middle,Spinner,0,0,0,100,Shubham Garhwal,2.00M,23,2001-01-09,India
+RR,7,Uncapped,Domestic,All_Rounder,Right,Middle,Seamer,0,0,0,100,Anunay Singh,2.00M,24,1999-10-20,India
+SRH,8.5,Capped,Overseas,Batter,Right,Opener,Can't Bowl,63,1885,6,131,Kane Williamson,140.00M,35,1988-07-14,New Zealand
+SRH,9,Capped,Overseas,Wicket_Keeper,Left,Middle,Can't Bowl,33,606,0,154,Nicholas Pooran,107.50M,29,1994-05-15,West Indies
+SRH,9,Capped,Domestic,All_Rounder,Left,Middle,Spinner,42,217,27,146,Washington Sundar,87.50M,27,1996-11-07,India
+SRH,9,Uncapped,Domestic,Batter,Right,Middle,Can't Bowl,62,1318,0,156,Rahul Tripathi,85.00M,26,1997-04-15,India
+SRH,7,Capped,Overseas,All_Rounder,Left,Middle,Seamer,17,146,14,155,Romario Shepherd,77.50M,26,1998-03-05,West Indies
+SRH,8,Uncapped,Domestic,All_Rounder,Right,Opener,Spinner,22,241,7,140,Abhishek Sharma,65.00M,25,1999-01-16,India
+SRH,8,Capped,Domestic,Bowler,Right,Tailender,Seamer,132,281,142,100,Bhuveshwar Kumar,42.00M,31,1992-08-02,India
+SRH,7.5,Capped,Overseas,All_Rounder,Left,Middle,Seamer,2,0,2,100,Marco Jansen,42.00M,24,1999-08-25,South Africa
+SRH,8.5,Uncapped,Domestic,All_Rounder,Right,Middle,Spinner,23,222,2,146,Abdul Samad,40.00M,28,1995-04-08,India
+SRH,8,Uncapped,Domestic,Bowler,Right,Tailender,Seamer,5,2,3,129,Umran Malik,40.00M,24,1999-03-22,India
+SRH,9,Capped,Domestic,Bowler,Left,Tailender,Seamer,24,3,20,100,T Natarajan,40.00M,30,1993-07-26,India
+SRH,7,Uncapped,Domestic,Bowler,Right,Tailender,Seamer,14,6,13,100,Kartik Tyagi,40.00M,26,1997-09-01,India
+SRH,8,Capped,Overseas,Batter,Right,Middle,Can't Bowl,20,588,5,147,Aiden Markram,26.00M,26,1997-04-02,South Africa
+SRH,9,Capped,Overseas,Bowler,Right,Tailender,Seamer,7,22,2,115,Sean Abbott,24.00M,30,1993-08-05,Australia
+SRH,7.5,Capped,Overseas,Wicket_Keeper,Right,Tailender,Can't Bowl,35,644,2,140,Glenn Phillips,15.00M,32,1991-10-11,New Zealand
+SRH,7.5,Uncapped,Domestic,Bowler,Left,Tailender,Spinner,48,171,48,105,Shreyas Gopal,7.50M,33,1990-03-30,India
+SRH,8,Uncapped,Domestic,Wicket_Keeper,Right,Middle,Can't Bowl,3,19,0,118,Vishnu Vinod,5.00M,22,2001-07-09,India
+SRH,8,Uncapped,Domestic,Bowler,Right,Tailender,Seamer,0,0,0,100,Fazalhaq Farooqi,5.00M,24,2000-02-28,India
+SRH,7,Uncapped,Domestic,Batter,Right,Middle,Can't Bowl,19,205,0,110,Priyam Garg,2.00M,22,2001-12-28,India
+SRH,7,Uncapped,Domestic,Bowler,Right,Tailender,Seamer,17,68,12,128,Jagadeesha Suchith,2.00M,21,2002-12-28,India
+SRH,7,Uncapped,Domestic,Batter,Left,Middle,Can't Bowl,0,0,0,100,R Samarth,2.00M,23,2000-10-24,India
+SRH,8,Uncapped,Domestic,Bowler,Right,Tailender,Seamer,0,0,0,100,Shashank Singh,2.00M,22,2001-10-22,India
+SRH,8,Uncapped,Domestic,Bowler,Right,Tailender,Seamer,0,0,0,100,Saurabh Dubey,2.00M,22,2001-11-14,India
